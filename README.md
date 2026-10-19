@@ -6,7 +6,7 @@
 
 I build the whole data flow: pull it from APIs, model it in SQL, schedule it, test it, and put it in front of people as a dashboard, an app or an AI assistant.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/costin-cristian-stefan-a6412620b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/costin-stefan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristian102998@gmail.com)
 [![Naya Hub](https://img.shields.io/badge/Live_product-naya--hub.com-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://naya-hub.com)
 
