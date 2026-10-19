@@ -2,9 +2,9 @@
 
 # Hi, I'm Costin-Cristian Ștefan 👋
 
-### Data & AI Developer · Python · SQL · Power BI · LLM integration
+### Data Analyst & Data Engineer · Python · SQL · Power BI · dbt · Airflow · LLM workflows
 
-I build the whole data flow: pull it from APIs, model it in SQL, schedule it, test it, and put it in front of people as a dashboard, an app or an AI assistant.
+I build data platforms that turn raw data into decisions: pull it from APIs, model it in SQL, schedule it, test it, and put it in front of people as a dashboard, an app or an AI assistant.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/costin-stefan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristian102998@gmail.com)
