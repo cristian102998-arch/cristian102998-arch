@@ -81,7 +81,7 @@ Live multi-tenant booking SaaS for beauty professionals: Row Level Security, a P
 </tr>
 </table>
 
-**Data challenges:** [Veridion entity resolution](https://github.com/cristian102998-arch/veridion-poc-entity-resolution) · [UK VAT identifier discovery](https://github.com/cristian102998-arch/vat-identifier-discovery) · [Data processing & reporting assessment](https://github.com/cristian102998-arch/Technical-Assessment-Data-Processing-Reporting)
+**Data challenges:** [Veridion entity resolution](https://github.com/cristian102998-arch/veridion-poc-entity-resolution) · [Data processing & reporting assessment](https://github.com/cristian102998-arch/Technical-Assessment-Data-Processing-Reporting)
 
 ---
 
