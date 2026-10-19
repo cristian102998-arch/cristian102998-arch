@@ -20,7 +20,7 @@ I build the whole data flow: pull it from APIs, model it in SQL, schedule it, te
 - 🎓 BSc in Computer Science & IT, **University Politehnica of Bucharest**
 - 📊 Now moving fully into **data engineering, analytics and AI**: pipelines, warehouses, forecasting, Power BI
 - 🤖 I work daily with **Claude Code**: multi-agent workflows, custom skills, MCP connectors
-- 🚀 Shipping real products: a booking SaaS, an online shop and a live trading system, all running today
+- 🚀 Shipping real products: a booking SaaS and a live trading system, all running today
 - 📍 Bucharest / Buzău, Romania
 
 ---
@@ -75,12 +75,7 @@ Live multi-tenant booking SaaS for beauty professionals: Row Level Security, a P
 </td>
 <td width="50%" valign="top">
 
-### 🌿 [AriFlora Garden](https://github.com/cristian102998-arch/ariflora-garden)
-Online shop for a family plant nursery: catalogue, cart, customer accounts and an admin panel the client runs on their own. Payload CMS on Next.js, Neon Postgres, Vercel Blob.
-
-`Next.js` `Payload CMS` `PostgreSQL` `Vercel`
-
-[ariflora.ro](https://ariflora.ro) · [Case study](https://github.com/cristian102998-arch/ariflora-garden)
+<img src="https://raw.githubusercontent.com/cristian102998-arch/naya-hub/main/screenshots/landing.png" alt="Naya Hub landing page" width="100%">
 
 </td>
 </tr>
